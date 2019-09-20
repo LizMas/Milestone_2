@@ -1,0 +1,21 @@
+---
+title: "Milestone_2"
+author: "Liz M."
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+     The first project I want to discuss is Benjamin Hoffner-Brodsky’s Asylum Applicant Visualization Tool. I previously worked in asylum law, so I thought this project was a great idea and I loved exploring the app. Benjamin created a great UI that was well-designed and easy to navigate. He created histograms to show rejected and accepted applications for each country as well as an interactive map of the globe that showed where applicants came from. I thought this was a great way to tell the story with data using two different visual interfaces. I don’t think that there is much to critique with this project. 
+     However, I did notice that the UNHCR logo is prominently featured as the first thing you see in the initial “about the project” pop-up. While I understand that Benjamin was trying to attribute the data, this makes it seem like the UNHCR either officially sanctioned the project, or that they did it themselves. Additionally, I think the y-axis on the histograms is mislabeled. The graphs aim to show the total number of asylum applications, but the y-axis is labeled “number of rejections.” I think it should be labeled “number of total applications,” or something like that. 
+
+
+     The second project I chose is Sofia Corzo’s Making a clear descriptive interface to generate data on post-conflict transitional justice mechanisms from 1946-2006. This was a fascinating idea (my favorite idea of all the final projects), but I think that the final project got lost in the weeds a little considering all of the nuanced variables in the dataset. This was probably complicated by the smaller dataset (around 250 instances of PCTJMs). I appreciated how Sofia was very thorough with her introduction as well as the limitations of the data. She also included a short syllabus of relevant readings, which I thought was a great idea. She also distilled the data into an “at a glance” tab, which was a great way to organize her findings as well as orient the reader to the following tabs. I appreciated how she incorporated the definitions of variables throughout the analysis so the reader didn’t have to flip between a methodological tab and the tab they were exploring. Overall, she created a beautifully designed (and quite ambitions) final project. 
+     For cons, five of the tabs did not work. I’ll give her the benefit of the doubt and assume that they worked initially and probably malfunctioned later. In the dataset, Rwanda is missing (which is probably the most well-known case of PCTJM in history), which makes me question the rest of the data. I would have also liked to see some graphs or maps to display the data in a more interactive way. 
+
+
+
+
